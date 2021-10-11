@@ -1,1 +1,3 @@
-Inside Sample Txt file 
+Inside Sample Txt 
+
+Changed for New project 
