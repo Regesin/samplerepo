@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 For sampless purposes
+=======
+Added in remote repo
+
+
+All is well
+>>>>>>> 33aa0fa4f8a1e290f527997d4ca3ab417296fe36
